@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ejercicio1",
     "\\Ejercicio6",
-    "\\Ejercicio6\\x64"
+    "\\Ejercicio6\\x64",
+    "\\Ejercicio7",
+    "\\EjerciciosParcial2"
   ],
-  "SelectedNode": "\\Ejercicio6",
+  "SelectedNode": "\\Ejercicio6\\Ejercicio6.cpp",
   "PreviewInSolutionExplorer": false
 }
